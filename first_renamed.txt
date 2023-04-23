@@ -1,0 +1,19 @@
+this is version 1 of the project
+This txt will go into the 2nd commit
+
+this line is added to modify the file and it will change the 
+status of the file from unmodified to modified
+
+changed by sajal
+ again altered
+
+
+changes after putting the file in the gitIgnore
+
+
+121546497979
+change now it is 
+
+change in this master branch file
+
+this text is from master branch.
