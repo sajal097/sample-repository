@@ -17,3 +17,5 @@ change now it is
 change in this master branch file
 
 this text is from master branch.
+
+now added content in the bugfix branch
